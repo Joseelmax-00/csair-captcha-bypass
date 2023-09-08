@@ -1,7 +1,5 @@
-
-# Most of the code produced in this script was generated with the help of ChatGPT.
-# It's not just blind copy-pasting, It's using the available tools to the fullest for
-# education
+# Most of the code produced in this script was generated with the help (and not by) ChatGPT.
+# It's not blind copy-pasting, It's using the available tools to the fullest for education
 
 import cv2
 import numpy as np
